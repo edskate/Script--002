@@ -11,6 +11,9 @@ body{
     padding: 20px;
     border: 4px double #000;
     background-color: #ffffff;
+    background-image: url(img/Graphics-Vibe-Developer-Javascript.256.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
 }
 #logo{
     width: 150px;
